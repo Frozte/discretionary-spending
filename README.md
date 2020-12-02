@@ -19,7 +19,7 @@ In a time of financial struggles facing the US during the time of a pandemic, we
 
 ---
 
-## Analysis
+## Project Analysis
 
 All data is from the US Bureau of Labor Statistics (www.bls.gov)
 
